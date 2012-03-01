@@ -1,0 +1,10 @@
+$def with (qform, statement)
+<html>
+
+<em>$statement</em>
+<form method="post" action="/answer">
+<p>
+$:qform.render()
+<input type="submit" value="Answer" /></p>
+</form>
+</html>

@@ -1,0 +1,9 @@
+Title: README
+1. run the server module by executing the following command:
+		$ python restful.py
+2. by default the application will have the following url "http://0.0.0.0:8080"
+3. user can invoke the following interfaces:
+	# "http://0.0.0.0:8080/quiz", starts a new quiz or resume from the incomplete one.
+	# "http://0.0.0.0:8080/quiz/set 1" or "set 2" or "set 3"
+	# "http://0.0.0.0:8080/lastquiz" starts from the last incomplete quiz or starts a new one.
+

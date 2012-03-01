@@ -1,0 +1,11 @@
+$def with (already_started) 
+<html>
+$if(already_started==True):
+	<em>Starting your rest of the quiz</em>
+$else:
+	<em>Welcome to the quiz</em>
+<form method="post" action="question">
+<p>
+<input type="submit" value="Start" /></p>
+</form>
+</html>
