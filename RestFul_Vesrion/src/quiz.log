@@ -104,3 +104,83 @@ Inserting Who is the first President of USA in 21st century? George Washington G
 ['set 1', 'T']
 ['set 1', 'T', 'F']
 ['set 1', 'T', 'F', 'T']
+Error while doing database work
+Traceback (most recent call last):
+  File "/Users/mahmudulhaque/Assignment2_Middleware/Server/RestFul_Vesrion/src/restful.py", line 288, in main
+    app.run()
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/application.py", line 311, in run
+    return wsgi.runwsgi(self.wsgifunc(*middleware))
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/wsgi.py", line 35, in runwsgi
+    return runfcgi(func, None)
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/wsgi.py", line 16, in runfcgi
+    import flup.server.fcgi as flups
+ImportError: No module named flup.server.fcgi
+Error while doing database work
+Traceback (most recent call last):
+  File "/Users/mahmudulhaque/Assignment2_Middleware/Server/RestFul_Vesrion/src/restful.py", line 288, in main
+    app.run()
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/application.py", line 311, in run
+    return wsgi.runwsgi(self.wsgifunc(*middleware))
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/wsgi.py", line 35, in runwsgi
+    return runfcgi(func, None)
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/wsgi.py", line 16, in runfcgi
+    import flup.server.fcgi as flups
+ImportError: No module named flup.server.fcgi
+Error while doing database work
+Traceback (most recent call last):
+  File "/Users/mahmudulhaque/Assignment2_Middleware/Server/RestFul_Vesrion/src/restful.py", line 288, in main
+    app.run()
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/application.py", line 311, in run
+    return wsgi.runwsgi(self.wsgifunc(*middleware))
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/wsgi.py", line 35, in runwsgi
+    return runfcgi(func, None)
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/wsgi.py", line 16, in runfcgi
+    import flup.server.fcgi as flups
+ImportError: No module named flup.server.fcgi
+Error while doing database work
+Traceback (most recent call last):
+  File "/Users/mahmudulhaque/Assignment2_Middleware/Server/RestFul_Vesrion/src/restful.py", line 288, in main
+    app.run()
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/application.py", line 311, in run
+    return wsgi.runwsgi(self.wsgifunc(*middleware))
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/wsgi.py", line 35, in runwsgi
+    return runfcgi(func, None)
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/wsgi.py", line 16, in runfcgi
+    import flup.server.fcgi as flups
+ImportError: No module named flup.server.fcgi
+Error while doing database work
+Traceback (most recent call last):
+  File "/Users/mahmudulhaque/Assignment2_Middleware/Server/RestFul_Vesrion/src/restful.py", line 288, in main
+    app.run()
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/application.py", line 311, in run
+    return wsgi.runwsgi(self.wsgifunc(*middleware))
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/wsgi.py", line 35, in runwsgi
+    return runfcgi(func, None)
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/wsgi.py", line 16, in runfcgi
+    import flup.server.fcgi as flups
+ImportError: No module named flup.server.fcgi
+Error while doing database work
+Traceback (most recent call last):
+  File "/Users/mahmudulhaque/Assignment2_Middleware/Server/RestFul_Vesrion/src/restful.py", line 288, in main
+    app.run()
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/application.py", line 311, in run
+    return wsgi.runwsgi(self.wsgifunc(*middleware))
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/wsgi.py", line 35, in runwsgi
+    return runfcgi(func, None)
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/wsgi.py", line 16, in runfcgi
+    import flup.server.fcgi as flups
+ImportError: No module named flup.server.fcgi
+Error while doing database work
+Traceback (most recent call last):
+  File "/Users/mahmudulhaque/Assignment2_Middleware/Server/RestFul_Vesrion/src/restful.py", line 288, in main
+    app.run()
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/application.py", line 311, in run
+    return wsgi.runwsgi(self.wsgifunc(*middleware))
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/wsgi.py", line 35, in runwsgi
+    return runfcgi(func, None)
+  File "/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg/web/wsgi.py", line 16, in runfcgi
+    import flup.server.fcgi as flups
+ImportError: No module named flup.server.fcgi
+['set 1', 'F']
+['set 1', 'F', 'F']
+['set 1', 'F', 'F', 'T']
